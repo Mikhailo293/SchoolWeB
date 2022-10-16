@@ -1,0 +1,64 @@
+body {
+background-color: white;
+}
+
+.fig1{
+
+width: 75px;
+height: 39px;
+left: calc(50% - 75px/2 - 581.5px);
+top: 40px;
+background: #F217B5;
+}
+.fig2{
+position: absolute;
+width: 40px;
+height: 40px;
+left: calc(50% - 40px/2 - 650px);
+top: 38px;
+background: #F217B5;
+}
+
+
+.fig2{
+position: absolute;
+width: 695px;
+height: 109px;
+left: 352px;
+top: 180px;
+background: #EBFF04;
+}
+.fig3{
+position: absolute;
+width: 423px;
+height: 49px;
+left: 403px;
+top: 289px;
+background: #FAFF00;
+}
+.fig4{
+position: absolute;
+width: 98px;
+height: 40px;
+left: 214px;
+top: 196px;
+background: #FFE600;
+}
+
+.fig5{
+position: absolute;
+width: 757px;
+height: 37px;
+left: 378px;
+top: 397px;
+background: #0500FF;
+}
+
+.fig6{
+position: absolute;
+width: 676px;
+height: 45px;
+left: 390px;
+top: 542px;
+background: #D9D9D9;
+}
