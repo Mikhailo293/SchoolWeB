@@ -1,0 +1,91 @@
+body {
+    background-color: peachpuff;
+}
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+/* Первый экран */
+.welcome {
+    text-align: center;
+    background: linear-gradient(90deg, red, orange, yellow);
+    padding: 160px 0;
+}
+ 
+.welcome-img {
+    width: 157px;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+ 
+h1 {
+    font-family: 'Pacifico', cursive;
+    color:blanchedalmond;
+    font-size: 35pt;
+    margin-bottom: 40px;
+}
+ 
+.welcome-text {
+    font-family: 'Pacifico', cursive;
+    color:ghostwhite;
+    font-size: 20pt;
+}
+ 
+/* Новинки */
+.new {
+    text-align: center;
+    padding-bottom: 75px;
+}
+ 
+.new-heading {
+    font-family: 'Pacifico', cursive;
+    color: #FF715B;
+    font-size: 30pt;
+    margin: 45px 0;
+}
+ 
+.book-card {
+    display: inline-block;
+    width: 45%;
+    height: 270px;
+    background-color: #FFF9F1;
+    border: 3px solid #F5B6AC;
+    border-radius: 22px;
+    padding: 15px 10px;
+    margin: 0 10px;
+}
+ 
+.book-cover {
+    width: 160px;
+    height: 210px;
+}
+ 
+.book-intro {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15pt;
+    float: right;
+    width: 70%;
+}
+ 
+.book-link {
+    display: inline-block;
+    font-family: 'Pacifico', cursive;
+    font-size: 17px;
+
+}
+/* Номинации */
+.prize{
+    background: linear-gradient(90deg, red, orange, yellow);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.JOJO{
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 62, 62);
+    font-size: 45px;
+    padding-top: 50px ;
+}   
