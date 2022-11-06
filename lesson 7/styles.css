@@ -60,20 +60,22 @@ h1 {
  
 .book-cover {
     width: 160px;
-    height: 210px;
+    height: 200px;
 }
  
 .book-intro {
     font-family: 'Montserrat', sans-serif;
     font-size: 15pt;
     float: right;
-    width: 70%;
+    width: 40%;
 }
  
 .book-link {
     display: inline-block;
     font-family: 'Pacifico', cursive;
     font-size: 17px;
+    line-height: 25px;
+    margin-top: 25px;
 
 }
 /* Номинации */
@@ -83,9 +85,49 @@ h1 {
     padding-bottom: 50px;
 }
 
-.JOJO{
+.Nomination{
     font-family: 'Pacifico', cursive;
     color: rgb(255, 62, 62);
     font-size: 45px;
     padding-top: 50px ;
-}   
+} 
+.Prie-icons{
+font-size: 30px;
+display: block;
+}  
+
+.prize-list{
+    display: inline-block;
+    font-family: 'Pacifico', cursive;
+    width: 320px;
+    text-align: left;
+    margin: 30px 30px 0;
+    color: #523434;
+}
+
+h3{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+ol{
+    list-style-type: none;
+    padding-left: 50px;
+    font-size: 25px;
+}
+/* Последний раздел */
+.Last-words{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    line-height: 35px;
+}
+.lastsek{
+    width: 70%;
+    margin: auto;
+    padding: 50px 0;
+}
+.last-img{
+    border-radius: 50%;
+    float: right;
+
+}
